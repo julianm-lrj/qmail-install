@@ -1,0 +1,6 @@
+# Default code owners
+* @jmorley-lrj
+
+# Core installer ownership
+/install.sh @jmorley-lrj
+/README.md @jmorley-lrj
